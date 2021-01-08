@@ -1,0 +1,2 @@
+1) Ulke isimleri yazilacak.
+2) Araba markalari yazilacak.
