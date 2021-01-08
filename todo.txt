@@ -17,4 +17,4 @@
 3) cicek turleri yazilacak.
 4) Programlari dilleri bir listeye yazilacak.
 5) Yerli firmalar listenelecek.
-6) Bilinen um derleyicile listenelenecek.
+6) Bilinen tum derleyiciler listenelenecek.
