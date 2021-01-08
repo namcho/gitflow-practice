@@ -1,5 +1,19 @@
+/*
+ * @brief 
+ * @param
+ */
 1) Ulke isimleri yazilacak.
+
+/*
+ * @brief 
+ * @param
+ */
 2) Araba markalari yazilacak.
+
+/*
+ * @brief 
+ * @param
+ */
 3) cicek turleri yazilacak.
 4) Programlari dilleri bir listeye yazilacak.
 5) Yerli firmalar listenelecek.
