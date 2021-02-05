@@ -21,3 +21,4 @@
 9) Merge arada test...
 7) Bilinen tum filozoflarin isimleri listelenecek.
 8) Yeni ulkeler eklenecek.
+9) Yildiz isimleri listelenecek.
