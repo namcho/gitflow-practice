@@ -20,5 +20,6 @@
 6) Bilinen tum derleyiciler listenelenecek.
 9) Merge arada test...
 7) Bilinen tum filozoflarin isimleri listelenecek.
+10) Merge araya test...
 8) Yeni ulkeler eklenecek.
 9) Yildiz isimleri listelenecek.
