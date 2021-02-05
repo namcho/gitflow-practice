@@ -19,3 +19,4 @@
 5) Yerli firmalar listenelecek.
 6) Bilinen tum derleyiciler listenelenecek.
 7) Bilinen tum filozoflarin isimleri listelenecek.
+8) Yeni ulkeler eklenecek.
