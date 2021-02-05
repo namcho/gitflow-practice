@@ -18,5 +18,6 @@
 4) Programlari dilleri bir listeye yazilacak.
 5) Yerli firmalar listenelecek.
 6) Bilinen tum derleyiciler listenelenecek.
+9) Merge arada test...
 7) Bilinen tum filozoflarin isimleri listelenecek.
 8) Yeni ulkeler eklenecek.
